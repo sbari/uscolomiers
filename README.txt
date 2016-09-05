@@ -2,6 +2,10 @@
 TITLE: 
 Fitness - 100% Fully Responsive Free HTML5 Bootstrap Template
 
+DEVS:
+thibault SABATHIER <thibault.sabathier@gmail.com>
+Bastien MARRAGOU <marragou.bastien@gmail.com
+
 AUTHOR:
 DESIGNED & DEVELOPED by FeeeHTML5.co
 
