@@ -337,7 +337,7 @@
                         <li><a href="#" data-sched="exterieurs">Extérieurs</a></li>
                     </ul>
                 </div>
-                <div class="col-md-12">
+                <div class="col-md-12"> 
                     <div class="row text-center">
                         <div class="col-md-12 schedule-container"> 
                             <div class="schedule-content active" data-day="columerins">
